@@ -33,4 +33,4 @@ Python-based webservice. Whenever a repository is created in a given organizatio
 
 
 ## Comments
-Easily expandible for further actions. Just add paths and corresponding function/method name in the urls section, and add the action as a method.
+Easily expandible for further actions. Just add paths and corresponding class name in the urls section, and add the action as a class.
