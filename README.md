@@ -7,7 +7,7 @@ Python-based webservice. Whenever a repository is created in a given organizatio
 ## Requirements
 - Python 3.x
 - web.py library (pip install web.py)
-- ngrok if you wish to run locally
+- [ngrok](https://ngrok.com/) if you wish to run locally
 
 
 ## Execution
